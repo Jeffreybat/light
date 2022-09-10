@@ -1,1 +1,1 @@
-# Creating a new branch is quick and phone simple.
+# Creating a new branch is quick and simples.
